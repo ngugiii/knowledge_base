@@ -1,0 +1,11 @@
+{
+  "knowledge-entries": [
+    {
+      "title": "Brand new entries",
+      "description": "This is a new entry for testing",
+      "createdAt": "2025-11-05T08:11:18.483Z",
+      "updatedAt": "2025-11-07T14:05:49.996Z",
+      "id": 1
+    }
+  ]
+}
